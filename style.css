@@ -1,0 +1,71 @@
+p {
+    color: rgb(139, 137, 139);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+    color: palevioletred;
+    font-size: 60px;
+    font-family: cursive;
+}
+
+h2 {
+    color: brown
+}
+
+body {
+    background-color: blanchedalmond;
+    margin: 70px;
+    color: rgb(139, 137, 139);
+}
+
+p1 {
+    color: rgb(139, 137, 139);
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    display: block;
+    margin: 0 auto;
+
+}
+
+p4 {
+    color: rgb(139, 137, 139);
+}
+
+p5 {
+    color: royalblue
+}
+
+nav a {
+    display: block;
+    margin-right: 40px;
+    padding: 5px solid rebeccapurple;
+    color: palevioletred;
+    padding: 20px 22px;
+    float: left;
+}
+
+h2 {
+    color: brown;
+}
+
+a {
+    color: palevioletred;
+}
+
+h2 {
+    color: brown;
+}
+
+footer a {
+    display: block;
+    margin-right: 40px;
+    padding: 5px solid rebeccapurple;
+    color: palevioletred;
+    padding: 20px 22px;
+    float: left;
+} 
+    
